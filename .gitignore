@@ -1,0 +1,13 @@
+**/__pycache__
+
+data/
+log/
+pretrain_model/
+checkpoints/
+data/
+data(100_total)
+qqq/
+www
+test/
+tmp/
+*.caffemodel
