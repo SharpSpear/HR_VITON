@@ -9,6 +9,7 @@ def openpose(input_folder, output_folder):
 openpose('qqq/image', 'www')
 
 
+
 # import os
 
 # import pathlib
